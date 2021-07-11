@@ -38,7 +38,7 @@
             <div class="a">
                 <img
                     src="https://thumb9.shutterstock.com/mosaic_250/3955679/522874111/stock-vector-green-check-mark-icon-tick-symbol-in-green-color-vector-illustration-522874111.jpg"><br>
-                <span class="c">Nonprofits around the world apply and join GlobalGiving to access more funding, to build
+                <span class="c">Non-profits around the world apply and join GlobalGiving to access more funding, to build
                     new skills, and to make important connections.</span>
                 <br><br>
                 <span class="b">NON-PROFITS</span>
