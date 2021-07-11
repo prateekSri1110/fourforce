@@ -1,0 +1,30 @@
+section{
+    display: inline-flex;
+}
+.container{
+    border: 2px solid black;
+    width: 98%;
+    height: 100%;
+}
+.logo{
+    width: 15%;
+    margin-top: 50px;
+}
+.title{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.title a{
+    text-decoration: none;
+    color: rgb(40, 32, 155);
+}
+.title a:hover{
+    color: rgb(182, 49, 49);
+}
+.button{
+    color: rgb(245, 244, 248);
+    background-color: rgb(231, 62, 62);
+}
+.pic{
+    border: 3px solid black;
+}
